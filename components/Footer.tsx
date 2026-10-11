@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { Suspense } from "react";
 import {
   GitPullRequest,
   Bug,
@@ -19,6 +19,10 @@ import {
 interface FooterProps {
   onNavigateHome?: () => void;
   currentView?: "dashboard" | "test" | "result";
+}
+
+function CurrentYear() {
+  return <span>{new Date().getFullYear()}</span>;
 }
 
 export const Footer: React.FC<FooterProps> = ({ onNavigateHome, currentView }) => {
@@ -177,7 +181,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateHome, currentView }) =
         {/* Bottom Bar */}
         <div className="mt-8 pt-6 border-t border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500 dark:text-slate-400">
           <div>
-            © {new Date().getFullYear()}{" "}
+            ©{" "}
+            <Suspense fallback={<span>2026</span>}>
+              <CurrentYear />
+            </Suspense>{" "}
             <a
               href={repoUrl}
               target="_blank"
