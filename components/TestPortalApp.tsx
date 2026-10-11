@@ -7,6 +7,7 @@ import { Navbar } from "./Navbar";
 import { Dashboard } from "./Dashboard";
 import { TestArena } from "./TestArena";
 import { ResultView } from "./ResultView";
+import { Footer } from "./Footer";
 import { Loader2 } from "lucide-react";
 
 interface TestPortalAppProps {
@@ -181,16 +182,7 @@ export const TestPortalApp: React.FC<TestPortalAppProps> = ({ initialQuestions }
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 py-6 text-center text-xs text-slate-500 dark:text-slate-400">
-        <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <div>
-            <strong>Bihar STET Paper-II CBT Simulator</strong> • Classes 11–12 Computer Science
-          </div>
-          <div>
-            Curated from 2023, 2024 &amp; 2025 official BSEB question papers (899 MCQs)
-          </div>
-        </div>
-      </footer>
+      <Footer onNavigateHome={handleGoHome} currentView={currentView} />
     </div>
   );
 };

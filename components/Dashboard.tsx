@@ -7,6 +7,7 @@ import {
   TestModeType,
 } from "@/lib/types";
 import { cleanQuestionPrompt } from "@/lib/questions";
+import { SeoDescriptionSection } from "./SeoDescriptionSection";
 import {
   Cpu,
   Layers,
@@ -605,6 +606,9 @@ export const Dashboard: React.FC<DashboardProps> = ({ questions, onStartTest }) 
           </div>
         </div>
       )}
+
+      {/* Full Description for SEO - Free Test Series Guide */}
+      <SeoDescriptionSection />
 
       {/* TOPIC TEST CONFIG MODAL */}
       {selectedTopic && (
