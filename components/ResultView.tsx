@@ -6,7 +6,7 @@ import {
   TestConfig,
   Question,
 } from "@/lib/types";
-import { getEffectiveAnswer } from "@/lib/questions";
+import { getEffectiveAnswer, cleanQuestionPrompt } from "@/lib/questions";
 import confetti from "canvas-confetti";
 import {
   Award,
@@ -414,7 +414,7 @@ export const ResultView: React.FC<ResultViewProps> = ({
 
                 {/* Question Prompt */}
                 <p className="font-medium text-slate-900 dark:text-slate-100 text-base leading-relaxed whitespace-pre-line">
-                  {q.question}
+                  {cleanQuestionPrompt(q.question)}
                 </p>
 
                 {/* Options Review Cards */}

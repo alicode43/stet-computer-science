@@ -6,6 +6,7 @@ import {
   TestConfig,
   TestModeType,
 } from "@/lib/types";
+import { cleanQuestionPrompt } from "@/lib/questions";
 import {
   Cpu,
   Layers,
@@ -518,7 +519,7 @@ export const Dashboard: React.FC<DashboardProps> = ({ questions, onStartTest }) 
                   </div>
 
                   <p className="font-medium text-slate-900 dark:text-slate-100 text-sm sm:text-base whitespace-pre-line">
-                    {q.question}
+                    {cleanQuestionPrompt(q.question)}
                   </p>
 
                   {/* Options */}

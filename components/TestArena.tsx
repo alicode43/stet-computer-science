@@ -6,7 +6,7 @@ import {
   TestConfig,
   UserResponse,
 } from "@/lib/types";
-import { getEffectiveAnswer } from "@/lib/questions";
+import { getEffectiveAnswer, cleanQuestionPrompt } from "@/lib/questions";
 import {
   Clock,
   Pause,
@@ -324,7 +324,7 @@ export const TestArena: React.FC<TestArenaProps> = ({
             {/* Question Content */}
             <div className="space-y-4">
               <p className="text-base sm:text-lg font-medium text-slate-900 dark:text-slate-100 leading-relaxed whitespace-pre-line select-text">
-                {currentQ.question}
+                {cleanQuestionPrompt(currentQ.question)}
               </p>
             </div>
 

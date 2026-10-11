@@ -1,4 +1,3 @@
-
 {
   "title": "Bihar STET Computer Science Paper II Previous-Year Questions",
   "description": "Topic-tagged MCQs extracted from supplied 2023, 2024 and 2025 source PDFs. Answer status distinguishes source-keyed answers from unverified items.",
@@ -4414,7 +4413,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 302,
-      "question": "What is the key advantage of using EEPROM over EPROM in terms of data erasing\n and reprogramming?\n\n डेटा मिटाने और रिप्रोग्रामिंग के संदर्भ में EPROM पर EEPROM का उपयोग करने का महत्वपूर्ण लाभ क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 1/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the key advantage of using EEPROM over EPROM in terms of data erasing\n and reprogramming?\n\n डेटा मिटाने और रिप्रोग्रामिंग के संदर्भ में EPROM पर EEPROM का उपयोग करने का महत्वपूर्ण लाभ क्या है?",
       "options": {
         "A": "EEPROM is faster than EPROM",
         "B": "EEPROM does not require UV light for erasing",
@@ -4478,7 +4477,7 @@
       "shift": "Shift 2",
       "topic": "Digital Electronics & Boolean Algebra",
       "question_number": 304,
-      "question": "In a Johnson counter, how many possible states can be represented by 'n' flip-flops?\n\n जॉनसन काउंटर में, कितने संभावित राज्यों को 'एन' फ्लिप-फ्लॉप द्वारा प्रतिनिधित्व किया जा सकता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 2/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "In a Johnson counter, how many possible states can be represented by 'n' flip-flops?\n\n जॉनसन काउंटर में, कितने संभावित राज्यों को 'एन' फ्लिप-फ्लॉप द्वारा प्रतिनिधित्व किया जा सकता है?",
       "options": {
         "A": "n",
         "B": "2n",
@@ -4542,7 +4541,7 @@
       "shift": "Shift 2",
       "topic": "Digital Electronics & Boolean Algebra",
       "question_number": 306,
-      "question": "Gray Code is commonly used in which application?\n\n ग्रे कोड आमतौर पर किस एप्लिके शन में उपयोग किया जाता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 3/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Gray Code is commonly used in which application?\n\n ग्रे कोड आमतौर पर किस एप्लिके शन में उपयोग किया जाता है?",
       "options": {
         "A": "Digital communications",
         "B": "Data encryption",
@@ -4606,7 +4605,7 @@
       "shift": "Shift 2",
       "topic": "Digital Electronics & Boolean Algebra",
       "question_number": 308,
-      "question": "In binary multiplication using the simple method, what is the first step after aligning the\n digits and preparing for multiplication?\n\n सरल विधि का उपयोग करके बाइनरी गुणन में, अंकों को संरे खित करने और गुणन की तैयारी के बाद पहला कदम\n क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 4/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "In binary multiplication using the simple method, what is the first step after aligning the\n digits and preparing for multiplication?\n\n सरल विधि का उपयोग करके बाइनरी गुणन में, अंकों को संरे खित करने और गुणन की तैयारी के बाद पहला कदम\n क्या है?",
       "options": {
         "A": "Multiply the least significant bit (LSB) by the multiplier",
         "B": "Multiply the most significant bit (MSB) by the multiplier",
@@ -4670,7 +4669,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 310,
-      "question": "Which component of an ideal microcomputer is responsible for temporarily holding\n data and instructions during processing?\n\n एक आदर्श माइक्रो कं प्यूटर का कौन सा घटक प्रसंस्करण के दौरान अस्थायी रूप से डेटा और निर्देशों को धारण\n करने के लिए जिम्मेदार है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 5/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which component of an ideal microcomputer is responsible for temporarily holding\n data and instructions during processing?\n\n एक आदर्श माइक्रो कं प्यूटर का कौन सा घटक प्रसंस्करण के दौरान अस्थायी रूप से डेटा और निर्देशों को धारण\n करने के लिए जिम्मेदार है?",
       "options": {
         "A": "CPU",
         "B": "ALU",
@@ -4734,7 +4733,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 312,
-      "question": "The microprocessor that powered the first microcomputer kit, the Altair 8800, was the\n Intel 8080. When was the Altair 8800 introduced?\n\n माइक्रोप्रोसेसर जिसने पहले माइक्रो कं प्यूटर किट, Altair 8800 को संचालित किया, वह इंटेल 8080 था। Altair\n 8800 कब पेश किया गया था?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 6/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "The microprocessor that powered the first microcomputer kit, the Altair 8800, was the\n Intel 8080. When was the Altair 8800 introduced?\n\n माइक्रोप्रोसेसर जिसने पहले माइक्रो कं प्यूटर किट, Altair 8800 को संचालित किया, वह इंटेल 8080 था। Altair\n 8800 कब पेश किया गया था?",
       "options": {
         "A": "1965",
         "B": "1975",
@@ -4798,7 +4797,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 314,
-      "question": "Conditional asymptotic notation allows for a more nuanced analysis of algorithm\n behavior under specific conditions. This is particularly useful when:\n\n सशर्त स्पर्शोन्मुख संके तन विशिष्ट परिस्थितियों में एल्गोरिथ्म व्यवहार के अधिक बारीक विश्लेषण के लिए अनुमति देता\n है। यह विशेष रूप से उपयोगी है जब:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 7/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Conditional asymptotic notation allows for a more nuanced analysis of algorithm\n behavior under specific conditions. This is particularly useful when:\n\n सशर्त स्पर्शोन्मुख संके तन विशिष्ट परिस्थितियों में एल्गोरिथ्म व्यवहार के अधिक बारीक विश्लेषण के लिए अनुमति देता\n है। यह विशेष रूप से उपयोगी है जब:",
       "options": {
         "A": "Analyzing algorithms with constant time complexity",
         "B": "The input size is fixed",
@@ -4862,7 +4861,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 316,
-      "question": "When analyzing the time complexity of an algorithm using Big-O notation, what\n property allows us to ignore lower-order terms?\n\n बिग-ओ नोटेशन का उपयोग करके एक एल्गोरिथ्म की समय जटिलता का विश्लेषण करते समय, क्या संपत्ति हमें\n निम्न-क्रम शब्दों को अनदेखा करने की अनुमति देती है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 8/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "When analyzing the time complexity of an algorithm using Big-O notation, what\n property allows us to ignore lower-order terms?\n\n बिग-ओ नोटेशन का उपयोग करके एक एल्गोरिथ्म की समय जटिलता का विश्लेषण करते समय, क्या संपत्ति हमें\n निम्न-क्रम शब्दों को अनदेखा करने की अनुमति देती है?",
       "options": {
         "A": "Reflexivity",
         "B": "Addition",
@@ -4926,7 +4925,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 318,
-      "question": "What is the worst-case time complexity of the linear search algorithm for an array of\n size \"n\"?\n\n आकार \"एन\" के एक सरणी के लिए रै खिक खोज एल्गोरिथ्म की सबसे खराब स्थिति की जटिलता क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 9/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the worst-case time complexity of the linear search algorithm for an array of\n size \"n\"?\n\n आकार \"एन\" के एक सरणी के लिए रै खिक खोज एल्गोरिथ्म की सबसे खराब स्थिति की जटिलता क्या है?",
       "options": {
         "A": "O(log n)",
         "B": "O(n)",
@@ -4990,7 +4989,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 320,
-      "question": "In a biconnected graph, the number of biconnected components is equal to:\n\n एक बाइसेन्टेड ग्राफ में, बाइसेन्टेड घटकों की संख्या बराबर है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 10/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "In a biconnected graph, the number of biconnected components is equal to:\n\n एक बाइसेन्टेड ग्राफ में, बाइसेन्टेड घटकों की संख्या बराबर है:",
       "options": {
         "A": "The number of vertices",
         "B": "The number of edges",
@@ -5054,7 +5053,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 322,
-      "question": "In the array representation of a binary tree, if the node at index \"i\" is not null, its left\n child will be at index:\n\n एक बाइनरी ट्री के सरणी प्रतिनिधित्व में, यदि सूचकांक में नोड \"i\" शून्य नहीं है, तो इसका बायाँ बच्चा सूचकांक में\n होगा:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODEw… 11/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n ENROLL NOW\nREAD THEIR STORIES !\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "In the array representation of a binary tree, if the node at index \"i\" is not null, its left\n child will be at index:\n\n एक बाइनरी ट्री के सरणी प्रतिनिधित्व में, यदि सूचकांक में नोड \"i\" शून्य नहीं है, तो इसका बायाँ बच्चा सूचकांक में\n होगा:",
       "options": {
         "A": "2i",
         "B": "2i + 1",
@@ -5118,7 +5117,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 324,
-      "question": "Which graph representation is more memory-efficient for sparse graphs?\n\n विरल रे खांकन के लिए कौन सा ग्राफ प्रतिनिधित्व अधिक मेमोरी-कु शल है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 12/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which graph representation is more memory-efficient for sparse graphs?\n\n विरल रे खांकन के लिए कौन सा ग्राफ प्रतिनिधित्व अधिक मेमोरी-कु शल है?",
       "options": {
         "A": "Adjacency matrix",
         "B": "Adjacency list",
@@ -5182,7 +5181,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 326,
-      "question": "Which of the following is an example of a problem that can be solved using\n backtracking?\n\n निम्नलिखित में से कौन एक समस्या का एक उदाहरण है जिसे बैकट्रैकिं ग का उपयोग करके हल किया जा सकता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 13/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following is an example of a problem that can be solved using\n backtracking?\n\n निम्नलिखित में से कौन एक समस्या का एक उदाहरण है जिसे बैकट्रैकिं ग का उपयोग करके हल किया जा सकता है?",
       "options": {
         "A": "Calculating the factorial of a number",
         "B": "Finding the largest element in an array",
@@ -5246,7 +5245,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 328,
-      "question": "The purpose of a firewall in an operating system is to:\n\n एक ऑपरे टिंग सिस्टम में एक फ़ायरवॉल का उद्देश्य है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 14/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "The purpose of a firewall in an operating system is to:\n\n एक ऑपरे टिंग सिस्टम में एक फ़ायरवॉल का उद्देश्य है:",
       "options": {
         "A": "Control the flow of information between processes",
         "B": "Manage the allocation of CPU time to processes",
@@ -5310,7 +5309,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 330,
-      "question": "Which storage allocation strategy allows multiple processes to reside in memory\n simultaneously without requiring contiguous memory blocks?\n\n कौन सी स्टोरे ज आवंटन रणनीति कई प्रक्रियाओं को सन्निहित मेमोरी ब्लॉक की आवश्यकता के बिना एक साथ स्मृति\n में निवास करने की अनुमति देती है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 15/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which storage allocation strategy allows multiple processes to reside in memory\n simultaneously without requiring contiguous memory blocks?\n\n कौन सी स्टोरे ज आवंटन रणनीति कई प्रक्रियाओं को सन्निहित मेमोरी ब्लॉक की आवश्यकता के बिना एक साथ स्मृति\n में निवास करने की अनुमति देती है?",
       "options": {
         "A": "Best Fit",
         "B": "Worst Fit",
@@ -5374,7 +5373,7 @@
       "shift": "Shift 2",
       "topic": "Data Structures & Algorithms",
       "question_number": 332,
-      "question": "Priority Scheduling involves assigning a priority value to each process. Which\n scheduling algorithm is closely related to this concept?\n\n प्राथमिकता शेड्यूलिंग में प्रत्येक प्रक्रिया के लिए एक प्राथमिकता मूल्य प्रदान करना शामिल है। कौन सा शेड्यूलिंग\n एल्गोरिथ्म इस अवधारणा से निकटता से संबंधित है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 16/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Priority Scheduling involves assigning a priority value to each process. Which\n scheduling algorithm is closely related to this concept?\n\n प्राथमिकता शेड्यूलिंग में प्रत्येक प्रक्रिया के लिए एक प्राथमिकता मूल्य प्रदान करना शामिल है। कौन सा शेड्यूलिंग\n एल्गोरिथ्म इस अवधारणा से निकटता से संबंधित है?",
       "options": {
         "A": "FCFS",
         "B": "SJN",
@@ -5598,7 +5597,7 @@
       "shift": "Shift 2",
       "topic": "DBMS & SQL",
       "question_number": 339,
-      "question": "Database Management System is a type of _________software\n\n डेटाबेस प्रबंधन प्रणाली एक प्रकार की _________software\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 19/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Database Management System is a type of _________software\n\n डेटाबेस प्रबंधन प्रणाली एक प्रकार की _________software",
       "options": {
         "A": "It is a kind of application software",
         "B": "It is a kind of general software",
@@ -5662,7 +5661,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 341,
-      "question": "What is the primary function of routing in the network layer?\n\n नेटवर्क परत में रूटिंग का प्राथमिक कार्य क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 20/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the primary function of routing in the network layer?\n\n नेटवर्क परत में रूटिंग का प्राथमिक कार्य क्या है?",
       "options": {
         "A": "Data framing",
         "B": "Error correction",
@@ -5726,7 +5725,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 343,
-      "question": "What is the primary function of SNMP (Simple Network Management Protocol)?\n\n एसएनएमपी (सरल नेटवर्क प्रबंधन प्रोटोकॉल) का प्राथमिक कार्य क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 21/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the primary function of SNMP (Simple Network Management Protocol)?\n\n एसएनएमपी (सरल नेटवर्क प्रबंधन प्रोटोकॉल) का प्राथमिक कार्य क्या है?",
       "options": {
         "A": "File transfer",
         "B": "Remote terminal access",
@@ -5790,7 +5789,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 345,
-      "question": "Flow control is used to:\n\n प्रवाह नियंत्रण का उपयोग निम्न के लिए किया जाता है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 22/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Flow control is used to:\n\n प्रवाह नियंत्रण का उपयोग निम्न के लिए किया जाता है:",
       "options": {
         "A": "Prevent data loss during transmission.",
         "B": "Increase the data rate of transmission.",
@@ -5854,7 +5853,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 347,
-      "question": "Routing involves:\n\n रूटिंग में शामिल हैं:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 23/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Routing involves:\n\n रूटिंग में शामिल हैं:",
       "options": {
         "A": "Dividing data into frames",
         "B": "Managing flow control",
@@ -5918,7 +5917,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 349,
-      "question": "Which of the following is NOT a software metric?\n\n निम्नलिखित में से कौन सा सॉफ्टवेयर मीट्रि क नहीं है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 24/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following is NOT a software metric?\n\n निम्नलिखित में से कौन सा सॉफ्टवेयर मीट्रि क नहीं है?",
       "options": {
         "A": "Lines of Code (LOC)",
         "B": "Number of defects",
@@ -5982,7 +5981,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 351,
-      "question": "White Box Testing is also known as:\n\n व्हाइट बॉक्स परीक्षण के रूप में भी जाना जाता है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 25/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "White Box Testing is also known as:\n\n व्हाइट बॉक्स परीक्षण के रूप में भी जाना जाता है:",
       "options": {
         "A": "Functional Testing",
         "B": "Black Box Testing",
@@ -6046,7 +6045,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 353,
-      "question": "Software maintenance refers to:\n\n सॉफ्टवेयर रखरखाव को संदर्भित करता है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 26/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Software maintenance refers to:\n\n सॉफ्टवेयर रखरखाव को संदर्भित करता है:",
       "options": {
         "A": "Developing new software from scratch",
         "B": "Enhancing the performance of software",
@@ -6110,7 +6109,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 355,
-      "question": "What is the purpose of the \"super\" keyword in Java and other similar languages?\n\n जावा और अन्य समान भाषाओं में \"सुपर\" कीवर्ड का उद्देश्य क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 27/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the purpose of the \"super\" keyword in Java and other similar languages?\n\n जावा और अन्य समान भाषाओं में \"सुपर\" कीवर्ड का उद्देश्य क्या है?",
       "options": {
         "A": "It refers to the superclass in inheritance",
         "B": "It creates a new object instance",
@@ -6174,7 +6173,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 357,
-      "question": "What are abstract methods?\n\n अमूर्त विधियाँ क्या हैं?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 28/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What are abstract methods?\n\n अमूर्त विधियाँ क्या हैं?",
       "options": {
         "A": "Methods that are inaccessible to the outside world",
         "B": "Methods that have implementation details",
@@ -6238,7 +6237,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 359,
-      "question": "What is the term for creating a new class that inherits properties and behaviors from\n an existing class?\n\n एक नया वर्ग बनाने के लिए क्या शब्द है जो मौजूदा वर्ग से गुणों और व्यवहारों को विरासत में लेता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 29/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the term for creating a new class that inherits properties and behaviors from\n an existing class?\n\n एक नया वर्ग बनाने के लिए क्या शब्द है जो मौजूदा वर्ग से गुणों और व्यवहारों को विरासत में लेता है?",
       "options": {
         "A": "Polymorphism",
         "B": "Encapsulation",
@@ -6302,7 +6301,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 361,
-      "question": "What is the function of a DNS (Domain Name System)?\n\n DNS (Domain Name System) का कार्य क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 30/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the function of a DNS (Domain Name System)?\n\n DNS (Domain Name System) का कार्य क्या है?",
       "options": {
         "A": "Sending emails",
         "B": "Translating domain names to IP addresses",
@@ -6366,7 +6365,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 363,
-      "question": "What is an entity in DTD?\n\n DTD में एक इकाई क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 31/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is an entity in DTD?\n\n DTD में एक इकाई क्या है?",
       "options": {
         "A": "A reference to an external resource @",
         "B": "A mathematical equation",
@@ -6430,7 +6429,7 @@
       "shift": "Shift 2",
       "topic": "DBMS & SQL",
       "question_number": 365,
-      "question": "Which statement is used to retrieve data from a database in SQL?\n\n SQL में डेटाबेस से डेटा पुनर्प्राप्त करने के लिए किस कथन का उपयोग किया जाता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 32/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which statement is used to retrieve data from a database in SQL?\n\n SQL में डेटाबेस से डेटा पुनर्प्राप्त करने के लिए किस कथन का उपयोग किया जाता है?",
       "options": {
         "A": "SELECT",
         "B": "UPDATE",
@@ -6494,7 +6493,7 @@
       "shift": "Shift 2",
       "topic": "DBMS & SQL",
       "question_number": 367,
-      "question": "Which SQL statement is used to update data in a database?\n\n डेटाबेस में डेटा को अपडेट करने के लिए किस SQL कथन का उपयोग किया जाता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 33/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which SQL statement is used to update data in a database?\n\n डेटाबेस में डेटा को अपडेट करने के लिए किस SQL कथन का उपयोग किया जाता है?",
       "options": {
         "A": "ALTER",
         "B": "CHANGE",
@@ -6558,7 +6557,7 @@
       "shift": "Shift 2",
       "topic": "Digital Electronics & Boolean Algebra",
       "question_number": 369,
-      "question": "For a DFA accepting binary numbers whose decimal equivalent is divisible by 3, what\n are all the possible remainders?\n\n एक DFA के लिए द्विआधारी संख्या स्वीकार करने के लिए जिनकी दशमलव समतुल्य 3 से विभाज्य है, सभी संभावित\n अवशेष क्या हैं?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 34/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "For a DFA accepting binary numbers whose decimal equivalent is divisible by 3, what\n are all the possible remainders?\n\n एक DFA के लिए द्विआधारी संख्या स्वीकार करने के लिए जिनकी दशमलव समतुल्य 3 से विभाज्य है, सभी संभावित\n अवशेष क्या हैं?",
       "options": {
         "A": "0",
         "B": "0,2",
@@ -6622,7 +6621,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 371,
-      "question": "If NFA of 5 states excluding the initial state is converted into DFA, maximum possible\n number of states for the DFA is?\n\n यदि प्रारं भिक राज्य को छोड़कर 5 राज्यों का NFA DFA में परिवर्तित हो जाता है, तो DFA के लिए अधिकतम संभव\n संख्या में राज्यों की संख्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 35/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "If NFA of 5 states excluding the initial state is converted into DFA, maximum possible\n number of states for the DFA is?\n\n यदि प्रारं भिक राज्य को छोड़कर 5 राज्यों का NFA DFA में परिवर्तित हो जाता है, तो DFA के लिए अधिकतम संभव\n संख्या में राज्यों की संख्या है?",
       "options": {
         "A": "64",
         "B": "32",
@@ -6686,7 +6685,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 373,
-      "question": "PDA can be represented with the help of\n\n पीडीए की मदद से प्रतिनिधित्व किया जा सकता है\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 36/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "PDA can be represented with the help of\n\n पीडीए की मदद से प्रतिनिधित्व किया जा सकता है",
       "options": {
         "A": "Instantaneous description",
         "B": "Transition diagram",
@@ -6750,7 +6749,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 375,
-      "question": "Who used the term \"IoT\" fist?\n\n \"IoT\" मुट्ठी शब्द का इस्तेमाल किसने किया?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 37/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Who used the term \"IoT\" fist?\n\n \"IoT\" मुट्ठी शब्द का इस्तेमाल किसने किया?",
       "options": {
         "A": "Steve Jobs",
         "B": "Bill Simpson",
@@ -6814,7 +6813,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 377,
-      "question": "__________ is a light weight IoT protocol\n\n __________ एक हल्के वजन IoT प्रोटोकॉल है\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 38/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "__________ is a light weight IoT protocol\n\n __________ एक हल्के वजन IoT प्रोटोकॉल है",
       "options": {
         "A": "IP",
         "B": "CoAP",
@@ -6878,7 +6877,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 379,
-      "question": "IIoT stands for?\n\n Iiot के लिए खड़ा है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 39/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "IIoT stands for?\n\n Iiot के लिए खड़ा है?",
       "options": {
         "A": "Industrial Internet of Things",
         "B": "Intelligent Internet of Things",
@@ -6942,7 +6941,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 381,
-      "question": "The components expert system is/ are\n\n घटक विशेषज्ञ प्रणाली है/ हैं\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 40/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "The components expert system is/ are\n\n घटक विशेषज्ञ प्रणाली है/ हैं",
       "options": {
         "A": "Knowledge Base",
         "B": "Inference Engine",
@@ -7006,7 +7005,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 383,
-      "question": "Forward chaining systems are _____________ where as backward chaining systems\n are _________\n\n फॉरवर्ड चेनिंग सिस्टम _____________ हैं जहां पिछड़े चेनिंग सिस्टम _________ हैं\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 41/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Forward chaining systems are _____________ where as backward chaining systems\n are _________\n\n फॉरवर्ड चेनिंग सिस्टम _____________ हैं जहां पिछड़े चेनिंग सिस्टम _________ हैं",
       "options": {
         "A": "Goal-driven, goal-driven",
         "B": "Goal-driven, data-driven",
@@ -7070,7 +7069,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 385,
-      "question": "Which of the following is not a Capabilities of Expert Systems?\n\n निम्नलिखित में से कौन विशेषज्ञ प्रणालियों की क्षमता नहीं है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 42/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following is not a Capabilities of Expert Systems?\n\n निम्नलिखित में से कौन विशेषज्ञ प्रणालियों की क्षमता नहीं है?",
       "options": {
         "A": "Advising",
         "B": "Demonstrating",
@@ -7134,7 +7133,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 387,
-      "question": "What is the full form of JESS in Expert System Technology?\n\n विशेषज्ञ प्रणाली प्रौद्योगिकी में जेस का पूरा रूप क्या है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 43/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the full form of JESS in Expert System Technology?\n\n विशेषज्ञ प्रणाली प्रौद्योगिकी में जेस का पूरा रूप क्या है?",
       "options": {
         "A": "Java Expert System Shell",
         "B": "Javascript Expert System Shell",
@@ -7198,7 +7197,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 389,
-      "question": "Which of the following is a useful security mechanism when considering business\n strategy and IT?\n\n व्यवसाय की रणनीति और आईटी पर विचार करते समय निम्नलिखित में से कौन एक उपयोगी सुरक्षा तंत्र है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 44/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following is a useful security mechanism when considering business\n strategy and IT?\n\n व्यवसाय की रणनीति और आईटी पर विचार करते समय निम्नलिखित में से कौन एक उपयोगी सुरक्षा तंत्र है?",
       "options": {
         "A": "Encryption",
         "B": "Decryption",
@@ -7262,7 +7261,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 391,
-      "question": "What is the legal protection afforded an expression of an idea, such as a song, video\n game, and some types of proprietary documents?\n\n कानूनी संरक्षण एक विचार की अभिव्यक्ति क्या है, जैसे कि एक गीत, वीडियो गेम और कु छ प्रकार के मालिकाना\n दस्तावेज?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 45/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is the legal protection afforded an expression of an idea, such as a song, video\n game, and some types of proprietary documents?\n\n कानूनी संरक्षण एक विचार की अभिव्यक्ति क्या है, जैसे कि एक गीत, वीडियो गेम और कु छ प्रकार के मालिकाना\n दस्तावेज?",
       "options": {
         "A": "Ethics",
         "B": "Copyright",
@@ -7326,7 +7325,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 393,
-      "question": "What is a program, when installed on a computer, records every keystroke and mouse\n click?\n\n एक प्रोग्राम क्या है, जब कं प्यूटर पर इंस्टॉल किया जाता है, तो हर कीस्ट्रोक और माउस क्लिक को रिकॉर्ड करता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 46/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What is a program, when installed on a computer, records every keystroke and mouse\n click?\n\n एक प्रोग्राम क्या है, जब कं प्यूटर पर इंस्टॉल किया जाता है, तो हर कीस्ट्रोक और माउस क्लिक को रिकॉर्ड करता है?",
       "options": {
         "A": "Key logger system",
         "B": "Hardware Key logger",
@@ -7390,7 +7389,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 395,
-      "question": "We can divide audio and video services into__________\n\n हम ऑडियो और वीडियो सेवाओं को __________ में विभाजित कर सकते हैं\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 47/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "We can divide audio and video services into__________\n\n हम ऑडियो और वीडियो सेवाओं को __________ में विभाजित कर सकते हैं",
       "options": {
         "A": "2 broad categories.",
         "B": "1 broad categories",
@@ -7454,7 +7453,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 397,
-      "question": "Which of the following is an example of Digital Image Processing?\n\n निम्नलिखित में से कौन डिजिटल छवि प्रसंस्करण का एक उदाहरण है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 48/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following is an example of Digital Image Processing?\n\n निम्नलिखित में से कौन डिजिटल छवि प्रसंस्करण का एक उदाहरण है?",
       "options": {
         "A": "Computer Graphics",
         "B": "Pixels",
@@ -7518,7 +7517,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 399,
-      "question": "Which of the following tool is used in tasks such as zooming, shrinking, rotating, etc.?\n\n निम्नलिखित में से किस उपकरण का उपयोग ज़ूमिंग, सिकु ड़ना, घूर्णन, आदि जैसे कार्यों में किया जाता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 49/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following tool is used in tasks such as zooming, shrinking, rotating, etc.?\n\n निम्नलिखित में से किस उपकरण का उपयोग ज़ूमिंग, सिकु ड़ना, घूर्णन, आदि जैसे कार्यों में किया जाता है?",
       "options": {
         "A": "Filters",
         "B": "Sampling",
@@ -7582,7 +7581,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 401,
-      "question": "What are required for good teaching?\n\n अच्छे शिक्षण के लिए क्या आवश्यक हैं?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 50/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What are required for good teaching?\n\n अच्छे शिक्षण के लिए क्या आवश्यक हैं?",
       "options": {
         "A": "Diagnosis",
         "B": "Remedy",
@@ -7646,7 +7645,7 @@
       "shift": "Shift 2",
       "topic": "Programming, OOP & Python",
       "question_number": 403,
-      "question": "What are the key concepts of problem based learning?\n\n समस्या आधारित शिक्षा की प्रमुख अवधारणाएँ क्या हैं?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 51/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What are the key concepts of problem based learning?\n\n समस्या आधारित शिक्षा की प्रमुख अवधारणाएँ क्या हैं?",
       "options": {
         "A": "class activities are constructed around a problem",
         "B": "students have to take initiatives to enquire and learn",
@@ -7710,7 +7709,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 405,
-      "question": "Psychomotor domain was classified by Simpson in\n\n मनोशरीर क्रियात्‍मक क्षेत्र(डोमेन) को सिम्पसन द्वारा वर्गीकृ त किया गया था\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 52/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Psychomotor domain was classified by Simpson in\n\n मनोशरीर क्रियात्‍मक क्षेत्र(डोमेन) को सिम्पसन द्वारा वर्गीकृ त किया गया था",
       "options": {
         "A": "1962",
         "B": "1972",
@@ -7774,7 +7773,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 407,
-      "question": "Which of the following statements about assignments is correct?\n\n असाइनमेंट के बारे में निम्नलिखित में से कौन सा कथन सही है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 53/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which of the following statements about assignments is correct?\n\n असाइनमेंट के बारे में निम्नलिखित में से कौन सा कथन सही है?",
       "options": {
         "A": "Assignments provide learners an opportunity to search for information construct their own ideas",
         "B": "Assignments can be done by parents, brothers or sisters depending on the talent that they",
@@ -7838,7 +7837,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 409,
-      "question": "How many aspects are in lesson plans based on Flink’s Taxonomy ?\n\n फ्लिंक के वर्गीकरण पर आधारित पाठ योजनाओं में कितने पहलू हैं?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 54/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "How many aspects are in lesson plans based on Flink’s Taxonomy ?\n\n फ्लिंक के वर्गीकरण पर आधारित पाठ योजनाओं में कितने पहलू हैं?",
       "options": {
         "A": "4",
         "B": "5",
@@ -7902,7 +7901,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 411,
-      "question": "Micro-teaching is a scaled down teaching encounter to reduce the duration of period of\n\n सूक्ष्म-शिक्षण की अवधि को सरल करने के लिए एक छोटा शिक्षण अनुभव है...................\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 55/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Micro-teaching is a scaled down teaching encounter to reduce the duration of period of\n\n सूक्ष्म-शिक्षण की अवधि को सरल करने के लिए एक छोटा शिक्षण अनुभव है...................",
       "options": {
         "A": "5 to 10 minutes",
         "B": "30 to 50 minutes",
@@ -7966,7 +7965,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 413,
-      "question": "In teaching experienced members guide the immature one’s for\n\n शिक्षण में अनुभवी सदस्य अपरिपक्व व्यक्ति का मार्गदर्शन...............द्वारा करते हैं।\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 56/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "In teaching experienced members guide the immature one’s for\n\n शिक्षण में अनुभवी सदस्य अपरिपक्व व्यक्ति का मार्गदर्शन...............द्वारा करते हैं।",
       "options": {
         "A": "Spending time",
         "B": "Qualification",
@@ -8030,7 +8029,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 415,
-      "question": "Assessment of how well a school is performing is\n\n कोई स्कू ल कितना अच्छा प्रदर्शन कर रहा है इसका आकलन करता है-\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 57/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Assessment of how well a school is performing is\n\n कोई स्कू ल कितना अच्छा प्रदर्शन कर रहा है इसका आकलन करता है-",
       "options": {
         "A": "Administration",
         "B": "Supervision",
@@ -8094,7 +8093,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 417,
-      "question": "The National Curriculum Framework-2005 derives its understanding from-\n\n राष्‍ट्रीय पाठयचर्या फ्रे मवर्क -2005 ने अपनी समझ ............. से प्राप्‍त की है।\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 58/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "The National Curriculum Framework-2005 derives its understanding from-\n\n राष्‍ट्रीय पाठयचर्या फ्रे मवर्क -2005 ने अपनी समझ ............. से प्राप्‍त की है।",
       "options": {
         "A": "humanism",
         "B": "behaviourism",
@@ -8158,7 +8157,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 419,
-      "question": "You want to adopt the teaching profession because\n\n आप शिक्षण का पेशा इसलिए अपनाना चाहते हैं क्योंकि\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 59/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "You want to adopt the teaching profession because\n\n आप शिक्षण का पेशा इसलिए अपनाना चाहते हैं क्योंकि",
       "options": {
         "A": "there are many others in your family who are teachers",
         "B": "there is no other option to earn a livelihood",
@@ -8222,7 +8221,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 421,
-      "question": "Hands on assessment are otherwise known as:\n\n स्‍वयं आकलन .......... के रूप में जाना जाता है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 60/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Hands on assessment are otherwise known as:\n\n स्‍वयं आकलन .......... के रूप में जाना जाता है:",
       "options": {
         "A": "formative assessment",
         "B": "summative assessment",
@@ -8286,7 +8285,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 423,
-      "question": "Measurement answers the question?\n\n मापन प्रश्न का उत्तर देता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 61/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Measurement answers the question?\n\n मापन प्रश्न का उत्तर देता है?",
       "options": {
         "A": "How well",
         "B": "How much",
@@ -8350,7 +8349,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 425,
-      "question": "When, What, Why & How, to teach is the main task of:\n\n कब, क्या, क्यों और कै से, पढ़ाना मुख्य कार्य है:\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 62/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "When, What, Why & How, to teach is the main task of:\n\n कब, क्या, क्यों और कै से, पढ़ाना मुख्य कार्य है:",
       "options": {
         "A": "Educational psychology",
         "B": "Educational philosophy",
@@ -8414,7 +8413,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 427,
-      "question": "To be able to create a positive learning environment within the classroom, it is\n important that the teachers-\n\n कक्षा के भीतर सकारात्मक शिक्षण वातावरण बनाने में सक्षम होने के लिए, यह महत्वपूर्ण है कि शिक्षक-\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 63/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "To be able to create a positive learning environment within the classroom, it is\n important that the teachers-\n\n कक्षा के भीतर सकारात्मक शिक्षण वातावरण बनाने में सक्षम होने के लिए, यह महत्वपूर्ण है कि शिक्षक-",
       "options": {
         "A": "follow the fixed time table well",
         "B": "are able to discipline children using awards and punishments",
@@ -8478,7 +8477,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 429,
-      "question": "If a teacher does not use any kind of teaching aid while teaching in the classroom how\n will it affect his/her teaching? Choose the correct option.\n\n यदि कोई शिक्षक कक्षा में पढ़ाते समय किसी भी प्रकार की शिक्षण सामग्री का उपयोग नहीं करता है, तो यह उसके\n शिक्षण को कै से प्रभावित करे गा, सही विकल्प का चयन कीजिए।\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 64/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "If a teacher does not use any kind of teaching aid while teaching in the classroom how\n will it affect his/her teaching? Choose the correct option.\n\n यदि कोई शिक्षक कक्षा में पढ़ाते समय किसी भी प्रकार की शिक्षण सामग्री का उपयोग नहीं करता है, तो यह उसके\n शिक्षण को कै से प्रभावित करे गा, सही विकल्प का चयन कीजिए।",
       "options": {
         "A": "It makes students passive and uninterested in studying",
         "B": "It is not necessary as a good teacher can make the lesson effective without use of teaching aid",
@@ -8542,7 +8541,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 431,
-      "question": "Which organization was the main political organization before the establishment of the\n Indian National Congress?\n\n काँग्रेस की स्थान से पूर्व प्रमुख राजनीतिक संगठन निम्नलिखित में कौन था?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 65/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Which organization was the main political organization before the establishment of the\n Indian National Congress?\n\n काँग्रेस की स्थान से पूर्व प्रमुख राजनीतिक संगठन निम्नलिखित में कौन था?",
       "options": {
         "A": "Bengal British Indian Society",
         "B": "Indian League",
@@ -8606,7 +8605,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 433,
-      "question": "When did the French Revolution begin?\n\n फ्रांसीसी क्रांति कब शुरू हुई?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 66/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "When did the French Revolution begin?\n\n फ्रांसीसी क्रांति कब शुरू हुई?",
       "options": {
         "A": "1789",
         "B": "1799",
@@ -8894,7 +8893,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 442,
-      "question": "What cross-section do you get when you give a horizontal cut to a brick?\n\n जब आप एक ईंट को क्षैतिज कट देते हैं तो आपको कौन सा अनुप्रस्थ काट मिलता है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 70/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "What cross-section do you get when you give a horizontal cut to a brick?\n\n जब आप एक ईंट को क्षैतिज कट देते हैं तो आपको कौन सा अनुप्रस्थ काट मिलता है?",
       "options": {
         "A": "Triangle",
         "B": "circle",
@@ -8958,7 +8957,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 444,
-      "question": "Factors of 20 are\n\n 20 के गुणनखंड हैं\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 71/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Factors of 20 are\n\n 20 के गुणनखंड हैं",
       "options": {
         "A": "1, 20",
         "B": "4, 5",
@@ -9022,7 +9021,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 446,
-      "question": "Choose the correct option instead of the question mark in the given question .\n\n acme : mace :: alga : ?\n\n दिए गये प्रश्‍न में प्रश्‍नवाचक चिह्न के स्‍थान पर सही विकल्‍प को चुनें।\n\n acme : mace :: alga : ?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 72/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Choose the correct option instead of the question mark in the given question .\n\n acme : mace :: alga : ?\n\n दिए गये प्रश्‍न में प्रश्‍नवाचक चिह्न के स्‍थान पर सही विकल्‍प को चुनें।\n\n acme : mace :: alga : ?",
       "options": {
         "A": "glaa",
         "B": "gall",
@@ -9086,7 +9085,7 @@
       "shift": "Shift 2",
       "topic": "Operating Systems",
       "question_number": 448,
-      "question": "Praveen walks 30m to wards east, tarns right and walks 20m, then turns right and\n walks 20m. How far is he now from starting point?\n\n प्रवीण 30 मीटर पूरब की ओर चला, दाऍ मुड़कर 20 मीटर चला और फिर दाऍ मुड़कर 20 मीटर चला। अब वह\n प्रारम्भिक स्‍थान से कितना दू र है?\n\n https://btet.sifyreg.com/bsebregjan24/ccgsc_jul24/process.php?appid=f8e956e82ecaab8a7cdf91da5c83c19c&q=NmUyYWQ0YTY4YzY4ODE… 73/75\n\nhttps://testbook.com/super-pass-live-coaching?utm_source=Website&utm_medium=WebsiteOrganic&utm_campaign=WEBSITEPDF\n https://link.testbook.com/bQQ2EkH1bpb https://link.testbook.com/bQQ2EkH1bpb\n 17/07/2024, 12:51 BIHAR SCHOOL EXAMINATION BOARD",
+      "question": "Praveen walks 30m to wards east, tarns right and walks 20m, then turns right and\n walks 20m. How far is he now from starting point?\n\n प्रवीण 30 मीटर पूरब की ओर चला, दाऍ मुड़कर 20 मीटर चला और फिर दाऍ मुड़कर 20 मीटर चला। अब वह\n प्रारम्भिक स्‍थान से कितना दू र है?",
       "options": {
         "A": "50 m.",
         "B": "40 m.",

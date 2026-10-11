@@ -1,5 +1,32 @@
 import { Question, QuestionBankData, TestConfig, TestResult, TopicStat, UserResponse } from "./types";
 
+export function cleanQuestionPrompt(text: string): string {
+  if (!text) return "";
+  return text
+    .split("\n")
+    .filter((line) => {
+      const s = line.trim();
+      if (!s) return true;
+      if (
+        s.includes("sifyreg.com") ||
+        s.includes("testbook.com") ||
+        s.includes("BIHAR SCHOOL EXAMINATION BOARD") ||
+        s.includes("EPDF") ||
+        s.includes("ENROLL NOW") ||
+        s.includes("READ THEIR STORIES")
+      ) {
+        return false;
+      }
+      if (/https?:\/\/(?:btet\.sifyreg|testbook|link\.testbook)\S*/i.test(s)) return false;
+      if (/\d{2}\/\d{2}\/\d{4},\s*\d{2}:\d{2}\s*BIHAR SCHOOL EXAMINATION BOARD/i.test(s)) return false;
+      if (/(?:…|\.{3})\s*\d+\/\d+/.test(s) || /^[A-Za-z0-9+/=]{8,}…?\s*\d+\/\d+$/.test(s)) return false;
+      return true;
+    })
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 export function getEffectiveAnswer(q: Question): {
   option: string;
   isOfficial: boolean;
